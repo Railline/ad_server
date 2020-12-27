@@ -76,7 +76,7 @@ yovoads.com
 restartad.com
 appgiftwall.oss-us-west-1.aliyuncs.com
 appgift.sinaapp.com
-ad.mail.ru|
+ad.mail.ru
 video.intl.xiaomi.com
 servedby.o2.co.uk
 amillionads.com
@@ -93,7 +93,6 @@ tapsell.ir
 jioads.akamaized.net
 ajdivotdelbloab24.jio.com
 adxcorp.kr
-api-*.bidmachine.io
 adsmobila.com
 tw-api.vpon.com
 haorun.pw
@@ -101,7 +100,6 @@ pochengweiyuan.com
 ts166.net
 imrworldwide.com
 tccbanner.com
-banner.*.tccapis.com
 ads-brand-postback.unityads.unity3d.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 cdn-creatives-akamai-prd.unityads.unity3d.com
@@ -136,7 +134,6 @@ ad999.biz
 cafe-latte.myshoplus.com
 luckyforworlds.com
 cdn-adn.rayjump.com
-cdn-adn-*.rayjump.com
 buysellads.com
 casino-ad-mediation.me2zengame.com
 postut.cn
@@ -226,9 +223,7 @@ splicky.com
 auction.unityads.unity3d.com
 cdn-highwinds.unityads.unity3d.com
 dsp.batmobil.net/ads-dsp
-api*.batmobi.net
 cdn.batmobi.net
-api*.batmobil.net
 adn.insight.ucweb.com
 us.3zs0.date
 tkmftc.aotter.net
@@ -355,7 +350,6 @@ hyperadx.com
 admarvel.com
 mopub-win-us-east.bksn.se
 nativead.s3.amazonaws.com
-adserver.*.yahoodns.net
 eu-ma.sam4m.com
 eu-ad.sam4m.com
 c2i.startappnetwork.com
@@ -373,7 +367,6 @@ adflake.com
 ads.aitype.net
 ero-advertising.com
 ad-creatives-public.commondatastorage.googleapis.com
-://o0e.ru
 1mp.mobi
 247realmedia.com
 31.14.252.148
@@ -382,7 +375,7 @@ a2dfp.net
 a2pub.com
 abnad.net
 abtest.swrve.com
-ad*.nexage.com
+ad.nexage.com
 ad-brix.com
 ad-maven.com
 ad-stir.com
@@ -674,7 +667,6 @@ i-mobile.co.jp
 i-vengo.com
 i.skimresources.com
 iad.appboy.com
-iad-*.appboy.com
 iadsdk.apple.com
 iamediaserve.com
 imasdk.googleapis.com
@@ -730,7 +722,6 @@ madnet.ru
 mads.bz
 mainadv.com
 manage.com
-marketplace-ios-*.hyprmx.com
 maudau.com
 mbn.com.ua
 mc.yandex.ru
@@ -739,7 +730,6 @@ media.motrixi.com
 media6degrees.com
 mediaforge.com
 medialand.ru
-mediate-ios-*.hyprmx.com
 medleyads.com
 meendocash.com
 metamx.com
@@ -840,7 +830,6 @@ popularitish.com
 popunderz.com
 pos.baidu.com
 postrelease.com
-production-adserver-*.amazonaws.com
 projectwonderful.com
 prosperent.com
 prre.ru
@@ -862,7 +851,6 @@ richpays.com
 robocat.me
 rotaban.ru
 rtb.nexage.com
-rtbimp-loadbalancer-*.amazonaws.com
 rtbpop.com
 rubiconproject.com
 sas816.ujikdd041o.cn
@@ -1376,7 +1364,8 @@ track.wg-aff.com
 lmyiwaakn.com
 analyticsq1.com
 fogbigcourt.com
-impactserving.com,domain=~xfantazy.com
+impactserving.com
+xfantazy.com
 crentgate.com
 kts.visitstats.com
 inservinea.com
@@ -3006,7 +2995,6 @@ smitionsory.co
 admp.io
 cklad.xyz
 richmediaads.com
-teleriumads-*.netdna-ssl.com
 afgr3.com
 anothere.club
 reportions.club
@@ -3632,7 +3620,6 @@ ssl4anyone5.com
 cdn.plopx.com
 ssl4me.cf
 fastpopunder.com
-putrr*.com
 78.140.130.88
 happer.info
 automoc.net
@@ -3789,7 +3776,6 @@ bgcsojmtgdrv.com
 bitmedia.io
 black6adv.com
 blkget8.com
-block.s*block.com
 boomads.com
 borotango.com
 brand.ad
@@ -3918,7 +3904,8 @@ landing.meendo.com
 lepubs.com
 lifestyle24h.com
 liflandaffiliates.com
-linkbucks.com,domain=~dyo.gs|~eafyfsuh.net
+linkbucks.com
+eafyfsuh.net
 liversely.com
 liversely.net
 llgerege.com
@@ -3939,7 +3926,6 @@ mediastinct.com
 mediaver.com
 megapopads.com
 metodikadeneg.info
-mf*.advantage.as
 mgid.com
 mintake.com
 moguldom.com
@@ -4079,8 +4065,6 @@ ws-gateway.com
 wsp.adskeeper.co.uk
 wsp.mgid.com
 wsp.steepto.com
-www.fuze-hill*.xyz
-www.fuze-sea*.xyz
 wwwpromoter.com
 xaxoro.com
 xpostx.com
